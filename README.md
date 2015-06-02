@@ -8,8 +8,8 @@ Create your Github portfolio!
 
 ## Schedule 
 
-10am - 11am: Github Repository Setup/Boilerplate Portfolio
-11am - 12pm: Selecting your best content
-12pm - 1:30pm: Lunch (bring your own!)
-1:30pm - 2:30pm: Organizing and Describing your Best Content
-2:30pm - 5:00pm: Adding your best content / custom styling
+- 10am - 11am: Github Repository Setup/Boilerplate Portfolio
+- 11am - 12pm: Selecting your best content
+- 12pm - 1:30pm: Lunch (bring your own!)
+- 1:30pm - 2:30pm: Organizing and Describing your Best Content
+- 2:30pm - 5:00pm: Adding your best content / custom styling
