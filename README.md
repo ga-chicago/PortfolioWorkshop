@@ -13,3 +13,8 @@ Create your Github portfolio!
 - 12pm - 1:30pm: Lunch (bring your own!)
 - 1:30pm - 2:30pm: Organizing and Describing your Best Content
 - 2:30pm - 5:00pm: Adding your best content / custom styling
+
+## We'll be using Jekyll
+- Jekyll Website: http://jekyllrb.com/
+- Directory Structure: http://jekyllrb.com/docs/structure/
+- Template Guide: http://jekyllrb.com/docs/templates/
