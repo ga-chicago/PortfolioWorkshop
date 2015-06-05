@@ -134,8 +134,8 @@
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
@@ -155,12 +155,12 @@
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 
-    // .footer-col-right {
-    //     float: right;
-    //     text-align: right;
-    //     margin-bottom: $spacing-unit / 2;
-    //     padding-left: $spacing-unit / 2;
-    // }
+    .footer-col-right {
+        float: right;
+        text-align: right;
+        margin-bottom: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
 }
 
 @include media-query($on-phablet) {

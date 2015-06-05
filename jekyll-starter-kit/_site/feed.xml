@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Your awesome portfolio</title>
+    <description>Write an awesome description for your portfolio here!
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jun 2015 11:05:45 -0500</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2015 11:05:45 -0500</lastBuildDate>
+    <link>https://you.github.io/</link>
+    <atom:link href="https://you.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 05 Jun 2015 11:41:33 -0500</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2015 11:41:33 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Your portfolio</title>
+        <description>&lt;h2 id=&quot;welcome-to-your-portfolio&quot;&gt;Welcome to your portfolio!&lt;/h2&gt;
+
+&lt;p&gt;Add some &lt;em&gt;content&lt;/em&gt; and &lt;strong&gt;awesomeness&lt;/strong&gt; using &lt;code&gt;markdown&lt;/code&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Jun 2015 05:34:07 -0500</pubDate>
+        <link>https://you.github.io/portfolio/update/2015/06/05/portfolio.html</link>
+        <guid isPermaLink="true">https://you.github.io/portfolio/update/2015/06/05/portfolio.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -27,9 +44,9 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 05 Jun 2015 05:34:07 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/05/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/05/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 01 Jun 2015 05:34:07 -0500</pubDate>
+        <link>https://you.github.io/jekyll/update/2015/06/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://you.github.io/jekyll/update/2015/06/01/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
