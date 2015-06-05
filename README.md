@@ -18,3 +18,10 @@ Create your Github portfolio!
 - Jekyll Website: http://jekyllrb.com/
 - Directory Structure: http://jekyllrb.com/docs/structure/
 - Template Guide: http://jekyllrb.com/docs/templates/
+
+## Getting Started
+- If you **have not** created your own Github pages repository, do so! It should look like:  **you-username.github.io** 
+- (If you have, backup your content because it will be replaced)
+- Copy the contents of this repository's `jekyll-starter-kit` to your **you-username.github.io** repository.
+- To test your portfolio locally, install **Jekyll**: `gem install jekyll`
+- Then run `jekyll serve` in that repository directory.
