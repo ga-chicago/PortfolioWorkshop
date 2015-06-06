@@ -25,3 +25,4 @@ Create your Github portfolio!
 - Copy the contents of this repository's `jekyll-starter-kit` to your **you-username.github.io** repository.
 - To test your portfolio locally, install **Jekyll**: `gem install jekyll`
 - Then run `jekyll serve` in that repository directory.
+- Finally, browse to your live app: `localhost:4000`
