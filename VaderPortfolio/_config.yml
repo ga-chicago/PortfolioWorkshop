@@ -1,0 +1,11 @@
+# Site settings
+title: Darth Vader's Elite Rubyists
+email: darklord@deathstar.blowup
+description: We'll blow your planet up.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://you.github.io" # the base hostname & protocol for your site
+twitter_username: darthvader
+github_username:  lordvader
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Project #1: Responsive Website"
+description: Media querrrrriiiiesss
+date:   2015-07-15 10:34:07
+categories: project portfolio sleep javascript html
+---
+
+
+
+## Summary of Project
+
+Insert something about this project, who it was for, why I did it, etc.
+
+## Project Images
+
+*Screenshots to go here!*
+
+![http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg](http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg)
+
+## Summary of Technology Used
+
+- HTML
+- CSS
+- Javascript
+- Love
+
+## Live Website
+
+*Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!*
+
+*Add a link to Github as well*

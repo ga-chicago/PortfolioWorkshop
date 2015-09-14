@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darth Vader&#39;s Elite Rubyists</title>
+    <description>We&#39;ll blow your planet up.</description>
+    <link>https://you.github.io/</link>
+    <atom:link href="https://you.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Sep 2015 11:18:44 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2015 11:18:44 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Project #4: How to Sleep 101</title>
+        <description>&lt;h2 id=&quot;summary-of-project&quot;&gt;Summary of Project&lt;/h2&gt;
+
+&lt;p&gt;Insert something about this project, who it was for, why I did it, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-images&quot;&gt;Project Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Screenshots to go here!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; alt=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary-of-technology-used&quot;&gt;Summary of Technology Used&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Love&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;live-website&quot;&gt;Live Website&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Add a link to Github as well&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Sep 2015 05:34:07 -0500</pubDate>
+        <link>https://you.github.io/project/portfolio/sleep/javascript/html/2015/09/14/project-4.html</link>
+        <guid isPermaLink="true">https://you.github.io/project/portfolio/sleep/javascript/html/2015/09/14/project-4.html</guid>
+        
+        
+        <category>project</category>
+        
+        <category>portfolio</category>
+        
+        <category>sleep</category>
+        
+        <category>javascript</category>
+        
+        <category>html</category>
+        
+      </item>
+    
+      <item>
+        <title>Project #3: API Server + Client</title>
+        <description>&lt;h2 id=&quot;summary-of-project&quot;&gt;Summary of Project&lt;/h2&gt;
+
+&lt;p&gt;Insert something about this project, who it was for, why I did it, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-images&quot;&gt;Project Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Screenshots to go here!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; alt=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary-of-technology-used&quot;&gt;Summary of Technology Used&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Love&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;live-website&quot;&gt;Live Website&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Add a link to Github as well&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Aug 2015 05:34:07 -0500</pubDate>
+        <link>https://you.github.io/project/portfolio/sleep/javascript/html/2015/08/30/project-3.html</link>
+        <guid isPermaLink="true">https://you.github.io/project/portfolio/sleep/javascript/html/2015/08/30/project-3.html</guid>
+        
+        
+        <category>project</category>
+        
+        <category>portfolio</category>
+        
+        <category>sleep</category>
+        
+        <category>javascript</category>
+        
+        <category>html</category>
+        
+      </item>
+    
+      <item>
+        <title>Project #2: CRUD app with Sinatra</title>
+        <description>&lt;h2 id=&quot;summary-of-project&quot;&gt;Summary of Project&lt;/h2&gt;
+
+&lt;p&gt;Insert something about this project, who it was for, why I did it, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-images&quot;&gt;Project Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Screenshots to go here!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; alt=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary-of-technology-used&quot;&gt;Summary of Technology Used&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Love&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;live-website&quot;&gt;Live Website&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Add a link to Github as well&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Aug 2015 05:34:07 -0500</pubDate>
+        <link>https://you.github.io/project/portfolio/sleep/javascript/html/2015/08/01/project-2.html</link>
+        <guid isPermaLink="true">https://you.github.io/project/portfolio/sleep/javascript/html/2015/08/01/project-2.html</guid>
+        
+        
+        <category>project</category>
+        
+        <category>portfolio</category>
+        
+        <category>sleep</category>
+        
+        <category>javascript</category>
+        
+        <category>html</category>
+        
+      </item>
+    
+      <item>
+        <title>Project #1: Responsive Website</title>
+        <description>&lt;h2 id=&quot;summary-of-project&quot;&gt;Summary of Project&lt;/h2&gt;
+
+&lt;p&gt;Insert something about this project, who it was for, why I did it, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-images&quot;&gt;Project Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Screenshots to go here!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; alt=&quot;http://i.ytimg.com/vi/0Mz_LhuSNAw/maxresdefault.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary-of-technology-used&quot;&gt;Summary of Technology Used&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Love&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;live-website&quot;&gt;Live Website&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Add a link here if it is legally ok to do so.. if not, do not include this section in your page at all!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Add a link to Github as well&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Jul 2015 05:34:07 -0500</pubDate>
+        <link>https://you.github.io/project/portfolio/sleep/javascript/html/2015/07/15/project-1.html</link>
+        <guid isPermaLink="true">https://you.github.io/project/portfolio/sleep/javascript/html/2015/07/15/project-1.html</guid>
+        
+        
+        <category>project</category>
+        
+        <category>portfolio</category>
+        
+        <category>sleep</category>
+        
+        <category>javascript</category>
+        
+        <category>html</category>
+        
+      </item>
+    
+  </channel>
+</rss>
